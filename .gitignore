@@ -31,3 +31,4 @@ replay_pid*
 gradlew
 gradlew.bat
 /.idea
+/gradle
