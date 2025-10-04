@@ -28,3 +28,6 @@ replay_pid*
 /.gradle
 ./gradlew.bat
 ./gradlew
+gradlew
+gradlew.bat
+/.idea
